@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #292F36 #FFFFFF;
+  box-sizing: border-box
+}
+
+body {
+  color: #292f36;
+  background: #ffffff;
+}
+
+header {
+  border-bottom: 1px solid #c2c2c2;
+  margin-bottom: 12px;
+}
+
+h1 {
+  color: #292f36;
+  margin: 12px 0;
+  font: 200 36px "Fira Code", monospace;
+  font-size: 36px;
+  text-align: center;
+}
